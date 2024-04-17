@@ -1,11 +1,11 @@
 {
-  "name": "2awqtr",
+  "name": "2awqtr-tea",
   "version": "1.0.0",
-  "description": "test project",
+  "description": "Tea Test Project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "2awqtr",
+  "license": "MIT"
 }

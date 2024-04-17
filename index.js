@@ -1,8 +1,3 @@
 //index.js
 
-function helloNpm() {
-  console.log("Hello NPM!")
-  return "hello NPM"
-}
-
-module.exports = helloNpm
+export const helloworld = () => console.log('Hello Tea Protocol!');
