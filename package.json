@@ -2,6 +2,12 @@
   "name": "2awqtr-tea",
   "version": "1.0.0",
   "description": "Tea Test Project",
+  "keywords": [
+    "hello-world",
+    "tea-protocol"
+  ],
+  "homepage": "https://github.com/2awqtr/2awqtr-tea",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
